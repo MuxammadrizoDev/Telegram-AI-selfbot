@@ -4,4 +4,4 @@ To get it working create a file named .env (without dot it not gonna work and wr
 
 
 [Read this]
-All the code was written by LLM(AI) so If you are agains this, my apologise. I created this just for fun and there might be bugs and mistakes as I wasn't that experienced that time.
+All the code was written by LLM(AI) so If you are agains this, my apologise. I only corrected it, tell it what to add and like that. I created this just for fun and there might be bugs and mistakes as I wasn't that experienced that time.
